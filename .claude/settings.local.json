@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"/mnt/c/Users/Gabriela Zanoide/.vscode/Todo-mundo-odeia-o-X-\" -type f | sort)",
+      "Read(//mnt/c/Users/Gabriela Zanoide/.vscode/**)"
+    ]
+  }
+}
